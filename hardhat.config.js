@@ -33,6 +33,14 @@ module.exports = {
   },
   solidity: {
     version: "0.8.17",
+    defaultNetwork: "goerli",
+    networks: {
+      hardhat: {},
+      goerli: {
+        url: "HTTP://172.30.96.1:7545",
+        accounts: [`0x${process.env.PRIVATE_KEY}`],
+      },
+    },
     settings: {
       optimizer: {
         enabled: true,
