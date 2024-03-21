@@ -45,3 +45,6 @@ yarn release
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+
+Live URL
+https://cerulean-griffin-045c7c.netlify.app/
