@@ -38,5 +38,5 @@ To learn more about thirdweb, Vite and React, take a look at the following resou
 You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
 
 ## Join our Discord!
-
+Live URL https://cerulean-griffin-045c7c.netlify.app/
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
